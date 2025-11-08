@@ -213,7 +213,7 @@ body{
   width:100vw;
 }
 .coins button{
-  width:13vw;
+  width:25vw;
 }
 .menu{
   color:#f0b429;
@@ -229,4 +229,5 @@ body{
 .nav1 a:active{
   color:#ffffff;
 }
+
 }
